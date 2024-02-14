@@ -8,7 +8,7 @@ Busco activamente oportunidades para aprender y crecer en un entorno dinámico.
   
   
 
-- 🌱Actualmente estoy aprendiendo sobre TypeScript, Redux Toolkit y Angular.   
+- 🌱Actualmente estoy aprendiendo sobre Django.   
   
 
 - ⚡ En mis tiempos libres me gusta hacer deportes y jugar videojuegos.   
