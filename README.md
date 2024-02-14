@@ -1,7 +1,7 @@
 ### <div align="center">[Soy Jorge, Full Stack Developer 💻](https://github.com/jorgedelprado11)</div>  
   
 
-- 🔭Actualmente estoy trabajando en proyectos individuales para mostrar mis habilidades. Soy Programador Full Stack especializado en Front End. Aprovecho tecnologías de desarrollo como JavaScript, React, Redux, Tailwind, Node.js, Express, Sequelize y PostgreSQL para crear soluciones innovadoras. Aspiro a convertir mi pasión en una carrera en la industria IT, donde pueda aplicar mis habilidades y conocimientos para impulsar proyectos interesantes y desafiantes.
+- 🔭Actualmente estoy trabajando en proyectos individuales para mostrar mis habilidades. Soy Programador Full Stack especializado en Front End. Aprovecho tecnologías de desarrollo como JavaScript, React, Redux, Tailwind, Node.js, Express, Sequelize, Python, FastAPI, MongoDB y PostgreSQL para crear soluciones innovadoras. Aspiro a convertir mi pasión en una carrera en la industria IT, donde pueda aplicar mis habilidades y conocimientos para impulsar proyectos interesantes y desafiantes.
 Busco activamente oportunidades para aprender y crecer en un entorno dinámico. 
 ¡Conéctate conmigo y exploremos juntos las posibilidades del mundo digital!
 
