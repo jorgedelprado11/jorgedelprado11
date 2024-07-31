@@ -5,6 +5,8 @@
 Busco activamente oportunidades para aprender y crecer en un entorno dinámico. 
 ¡Conéctate conmigo y exploremos juntos las posibilidades del mundo digital!
 
+
+Mi web: https://jorgedelpradodev.vercel.app/
 <br/>  
 
 
